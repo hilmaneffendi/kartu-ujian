@@ -1,6 +1,7 @@
 # kartu-ujian
 implementation encrypt / decrypt base64 with key for qr code
-
+#video
+https://www.youtube.com/watch?v=oU6UAd2fJ9U&feature=youtu.be
 # Script encode data
 membuat qr code dengan mengenkrip data npm + waktu.
 agar tidak bisa di dekrip menggunakan aplikasi lain kita menambahkan kunci
